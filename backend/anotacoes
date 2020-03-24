@@ -1,0 +1,10 @@
+#Metodos HTTP: 
+    -GET : buscar
+    -POST : inserir
+    -PUT : alterar
+    -DELET : deletar
+
+#Tipos de parametros
+    -Query Params: request.query ( Filtros, ordenacao, paginacao, ...)
+    -Route Params: request.parmas ( identificar um recurso na alteracao ou remocao)
+    -Body: request.body ( dados para criacao ou altercao de um registro)
