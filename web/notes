@@ -1,0 +1,6 @@
+//Componente : Bloco isolado de HTML, CSS e JS, o qual nao interfere no restante da aplicacao 
+-Quando criar um componente? Quando repetimos varias vezes a mesma coisa ou quando precisamos de algo isolado que nao interfira os outros componentes
+
+//Estado :  Informacoes mantidas pelo componente (lembrar: imutabilidade)
+
+//Propriedade : Insformacoes que um componente PAI passa para o componente FILHO
